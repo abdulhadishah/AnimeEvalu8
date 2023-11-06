@@ -6,7 +6,7 @@ This is a simple web application that allows users to rate an anime based on dif
 
 1. Clone or download this repository to your local machine.
 
-2. Open the `[index.html](https://github.com/abdulhadishah/AnimeEvalu8/blob/main/index.html)` file in your web browser.
+2. Open the [index.html](https://github.com/abdulhadishah/AnimeEvalu8/blob/main/index.html) file in your web browser.
 
 3. Fill in the ratings for each category (1-10) and click the "Calculate Final Rating 🚀" button.
 
