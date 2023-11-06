@@ -1,4 +1,4 @@
-![1](https://github.com/abdulhadishah/AnimeEvalu8/assets/101188074/3e698133-0078-4283-a81d-52642f4c1d3d)# Anime Rating Web App
+# Anime Rating Web App
 
 This is a simple web application that allows users to rate an anime based on different aspects such as storyline, characters, animation, art style, sound, and re-watchability. The application calculates a final rating based on these individual ratings.
 
